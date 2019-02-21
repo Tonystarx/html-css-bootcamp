@@ -1,16 +1,16 @@
 div{
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   border: 1px solid red;
-  border-radius: 100%;
-  background-image: url("puppy.jpg");
-  background-size: cover;
-  background-repeat: no-no-repeat;
+  border-radius: 10px;
+  display: inline-block;
 }
 
 img{
   border: 10px groove orangered;
     border-radius: 100%;
+    padding: 20px;
+    Margin: 40px;
 }
 
 .dogone{
